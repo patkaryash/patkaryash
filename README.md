@@ -1,12 +1,13 @@
-<div align="center"> 
+<div align="center">
 
-# Hey, I'm Yash Patkar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Yash%20Patkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%2F+Full-Stack+Developer;Django+Builder;Future+DevOps+Engineer;Consistent+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Future+DevOps+Engineer;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/patkaryash?logo=github&style=for-the-badge&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
 [![GitHub stars](https://img.shields.io/github/stars/patkaryash?style=for-the-badge&logo=github&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
-[![Profile Views](https://komarev.com/ghpvc/?username=patkaryash&style=for-the-badge&color=blueviolet)](https://github.com/patkaryash)
+[![Profile Views](https://komarev.com/ghpvc/?username=patkaryash&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/patkaryash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patkaryash/)
 
 </div>
 
@@ -14,11 +15,14 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd Year Engineering Student  
-- 🚀 Building real-world projects with Django + Full Stack + AI tools  
-- 🔁 Daily coding consistency (Python practice repo)  
-- 🎯 Target: Summer Internship (AI / Full Stack)  
-- ⚡ Goal: AI Engineer / DevOps Engineer  
+```txt
+🎓  3rd Year Engineering Student
+🚀  Building real-world projects with Django + React + AI
+🔁  Daily coding streak — Python practice repo
+🎯  Target: Summer Internship (AI / Full Stack)
+⚡  Goal: AI Engineer → DevOps Engineer
+🎮  Gamer at heart | RDR2 enthusiast
+```
 
 ---
 
@@ -26,12 +30,23 @@
 
 <div align="center">
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-0ea5e9?style=for-the-badge)
-![AI Tools](https://img.shields.io/badge/AI_Tools-8B5CF6?style=for-the-badge)
+![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### DevOps & Cloud (Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -45,34 +60,53 @@
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
-
-### 🧪 Lab Management System
-- 📌 Manage lab resources and scheduling  
-- ⚙️ Built with Django  
-- 🔗 https://github.com/Shantanukpro/LMS  
-
----
-
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🧪 **Lab Management System** | Manage lab PCs, users, scheduling & bulk imports | Django 5.2 + DRF + React 19 + TS + Tailwind | [View →](https://github.com/Shantanukpro/LMS) |
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🎯 Current Focus
+
+```yaml
+📚 Learning:    Python DSA (Prashant Jha) + Django Advanced
+🧠 Exploring:   AI + Automation + DevOps pipelines
+🚀 Goal:        Summer Internship (AI / Full Stack / DevOps)
+📈 Building:    Daily coding habit + portfolio-grade projects
+🏆 Certified:   Gen AI (Google + IBM) | MERN Stack
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=patkaryash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -92,23 +126,22 @@
 
 ---
 
-## 🎯 Current Focus
-📚 Learning       Python (Prashant Jha)
-🧠 Exploring      AI + Automation + Full Stack
-🚀 Goal           Summer Internship (AI / Full Stack)
-📈 Building       Daily coding habit + real projects
+## 📫 Connect With Me
 
+<div align="center">
 
-🏆 Achievements & Certifications
-🧠 Gen AI Certification (Google, IBM)
-💻 MERN Stack Development
-🏁 Participated in Hackathon
-📫 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/patkaryash/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yashpatkar4249@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patkaryash/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatkar4249@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patkaryash)
 
-Consistency builds leverage.
+</div>
 
-🚀 From zero → real-world impact.
+---
 
-</div> 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+
+*"Consistency builds leverage. Zero → Real-world impact." 🚀*
+
+</div>
