@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Yash%20Patkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Future+DevOps+Engineer;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/patkaryash?logo=github&style=for-the-badge&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
 [![GitHub stars](https://img.shields.io/github/stars/patkaryash?style=for-the-badge&logo=github&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
@@ -20,7 +20,7 @@
 🚀  Building real-world projects with Django + React + AI
 🔁  Daily coding streak — Python practice repo
 🎯  Target: Summer Internship (AI / Full Stack)
-⚡  Goal: AI Engineer → DevOps Engineer
+⚡  Goal: AI Engineer 
 🎮  Gamer at heart | RDR2 enthusiast
 ```
 
