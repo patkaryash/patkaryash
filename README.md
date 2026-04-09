@@ -93,8 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
