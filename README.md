@@ -93,10 +93,11 @@
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Yash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patkaryash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
