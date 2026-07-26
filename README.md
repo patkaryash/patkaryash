@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- HERO ARTWORK DISPLAY -->
-<img src="output/final.png" alt="The Creation of Adam - Disintegrate Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
-
-<!-- ANIMATED SVG DOTTED SPARK BRIDGE -->
-<img src="output/spark.svg" alt="Human Logic to Generative AI Spark Bridge" width="100%"/>
+<!-- ANIMATED CREATION OF ADAM HANDS HERO BANNER -->
+<img src="output/creation-hands.svg" alt="Creation of Adam - Human Logic to Generative AI" width="100%" style="border-radius: 12px;"/>
 
 <br/>
 
