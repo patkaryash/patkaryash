@@ -1,9 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Yash%20Patkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- HERO ARTWORK DISPLAY -->
+<img src="https://raw.githubusercontent.com/patkaryash/github-hero/main/output/final.png" alt="The Creation of Adam - Disintegrate Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ANIMATED SVG DOTTED SPARK BRIDGE -->
+<svg width="100%" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .flow-line {
+      stroke: url(#spark-gradient);
+      stroke-width: 2.5;
+      stroke-dasharray: 8, 8;
+      animation: dashFlow 1.2s linear infinite;
+    }
+    .pulse-glow {
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    .spark-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+    }
+    @keyframes dashFlow {
+      from { stroke-dashoffset: 32; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.7; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.3); }
+    }
+  </style>
+  <defs>
+    <linearGradient id="spark-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
 
+  <!-- Left Node (Human) -->
+  <circle cx="210" cy="30" r="4" fill="#0ea5e9" />
+  <text x="90" y="34" fill="#38bdf8" class="spark-text">HUMAN LOGIC</text>
+
+  <!-- Dotted Animated Path -->
+  <path d="M 215 30 L 585 30" class="flow-line" />
+
+  <!-- Center Pulsing Spark Node -->
+  <g class="pulse-glow" transform-origin="400 30">
+    <circle cx="400" cy="30" r="5" fill="#00F7FF" />
+    <circle cx="400" cy="30" r="11" fill="#00F7FF" fill-opacity="0.25" />
+  </g>
+
+  <!-- Right Node (AI) -->
+  <circle cx="585" cy="30" r="4" fill="#8b5cf6" />
+  <text x="598" y="34" fill="#c084fc" class="spark-text">GENERATIVE AI</text>
+</svg>
+
+<br/>
+
+<!-- TYPING TITLE -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/patkaryash?logo=github&style=for-the-badge&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
 [![GitHub stars](https://img.shields.io/github/stars/patkaryash?style=for-the-badge&logo=github&color=0ea5e9&labelColor=020617)](https://github.com/patkaryash)
 [![Profile Views](https://komarev.com/ghpvc/?username=patkaryash&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/patkaryash)
@@ -16,12 +76,12 @@
 ## 🧠 About Me
 
 ```txt
-🎓  3rd Year Engineering Student
-🚀  Building real-world projects with Django + React + AI
-🔁  Daily coding streak — Python practice repo
-🎯  Target: Summer Internship (AI / Full Stack)
-⚡  Goal: AI Engineer 
-🎮  Gamer at heart | RDR2 enthusiast
+🎓 Final Year Engineering Student
+🚀 Building production-grade applications with Django + React + AI
+🔁 Daily coding streak & continuous system design practice
+🎯 Target: Summer Internship (AI / Full Stack / DevOps)
+⚡ Ultimate Goal: AI Systems Engineer 
+🎮 Gamer at heart | Red Dead Redemption 2 enthusiast
 ```
 
 ---
