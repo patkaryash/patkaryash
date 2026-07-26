@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- HERO ARTWORK -->
-<img src="https://raw.githubusercontent.com/patkaryash/github-hero/main/output/final.png" alt="The Creation of Adam - Dissolve Effect" width="100%"/>
-
-<p align="center">
-  <code>Human Intelligence</code> &nbsp;───&nbsp; ⚡ &nbsp;───&nbsp; <code>Artificial Intelligence</code>
-</p>
-
-# Hi, I'm Yash Patkar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Yash%20Patkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -17,10 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patkaryash/)
 
 </div>
-
----
-
-## ⚡ Human x Machine Blueprint
 
 <div align="center">
 
