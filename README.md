@@ -1,8 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED CREATION OF ADAM HANDS HERO BANNER -->
-<img src="output/creation-hands.svg" alt="Creation of Adam - Human Logic to Generative AI" width="100%" style="border-radius: 12px;"/>
+<!-- HERO ARTWORK DISPLAY -->
+<img src="output/final.png" alt="The Creation of Adam - Disintegrate Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
 
+<br/>
 <br/>
 
 <!-- TYPING TITLE -->
