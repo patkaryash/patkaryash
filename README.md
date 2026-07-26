@@ -71,11 +71,21 @@
 
 </div>
 
+<div align="center">
+
+
+
 ---
 
 ## 🧠 About Me
 
 ```txt
+🎓  Final Year Engineering Student
+🚀  Building real-world projects with Django + React + AI
+🔁  Daily coding streak — Python practice repo
+🎯  Target: Summer Internship (AI / Full Stack)
+⚡  Goal: AI Engineer 
+🎮  Gamer at heart | RDR2 enthusiast
 🎓 Final Year Engineering Student
 🚀 Building production-grade applications with Django + React + AI
 🔁 Daily coding streak & continuous system design practice
@@ -103,10 +113,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### DevOps & Cloud (Learning)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
