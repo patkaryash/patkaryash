@@ -51,11 +51,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### DevOps & Cloud (Learning)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ---
@@ -70,30 +65,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🧪 **Lab Management System** | Manage lab PCs, users, scheduling & bulk imports | Django 5.2 + DRF + React 19 + TS + Tailwind | [View →](https://github.com/Shantanukpro/LMS) |
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-📚 Learning:    Python DSA (Prashant Jha) + Django Advanced
-🧠 Exploring:   AI + Automation + DevOps pipelines
-🚀 Goal:        Summer Internship (AI / Full Stack / DevOps)
-📈 Building:    Daily coding habit + portfolio-grade projects
-🏆 Certified:   Gen AI (Google + IBM) | MERN Stack
-```
 
 ---
 
