@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO ARTWORK DISPLAY -->
-<img src="output/mask.png" alt="The Creation of Adam - Disintegrate Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+<img src="output/masks.png" alt="The Creation of Adam - Disintegrate Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
 
 <br/>
 <br/>
