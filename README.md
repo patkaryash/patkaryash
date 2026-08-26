@@ -1,8 +1,8 @@
 <table width="100%" style="table-layout: fixed;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img align="center" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
+<img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
 
 </td>
 <td width="50%" valign="top">
@@ -11,7 +11,7 @@
 <tr>
 <td valign="top" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Silly Cat Typing" style="border-radius: 8px;" />
+<img width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Silly Cat Typing" style="border-radius: 8px;" />
 
 <br/><br/>
 
