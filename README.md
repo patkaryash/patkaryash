@@ -23,21 +23,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/patkaryash">
-  <img src="https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true" width="95%" alt="Yash's GitHub stats" />
-</a>
+<h3 align="center">💻 Languages</h3>
 
-<br/><br/>
-
-<a href="https://github.com/patkaryash">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=patkaryash&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 
 </td>
 </tr>
