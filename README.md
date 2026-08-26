@@ -11,7 +11,7 @@
 <tr>
 <td valign="top" align="center">
 
-<img width="100%" src="https://media.tenor.com/bY30T5XQW4sAAAAC/lofi-anime.gif" alt="Aesthetic Banner" style="border-radius: 8px;" />
+<img width="100%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Silly Cat Typing" style="border-radius: 8px;" />
 
 <br/><br/>
 
@@ -23,11 +23,19 @@
 
 <h3 align="center">💻 Languages</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td>
+  </tr>
+</table>
 
 </td>
 </tr>
