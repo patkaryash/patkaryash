@@ -67,6 +67,10 @@
 </p>
 
 <br/>
+<hr/>
+<br/>
+
+<h3 align="center">🤝 Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/patkaryash/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
