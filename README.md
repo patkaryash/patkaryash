@@ -1,19 +1,17 @@
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <img align="center" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<table height="100%">
+<table width="100%" height="100%">
 <tr>
 <td valign="top" align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://media.tenor.com/bY30T5XQW4sAAAAC/lofi-anime.gif" alt="Aesthetic Banner" style="border-radius: 8px;" />
 
 <br/><br/>
 
