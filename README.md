@@ -2,11 +2,11 @@
 <tr>
 <!-- Left GIF -->
 <td width="50%" valign="top" align="center">
-<img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
+<img width="400" height="280" style="object-fit: cover; border-radius: 8px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
 </td>
 <!-- Right GIF -->
 <td width="50%" valign="top" align="center">
-<img width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Silly Cat Typing" style="border-radius: 8px;" />
+<img width="400" height="280" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Silly Cat Typing" style="object-fit: cover; border-radius: 8px;" />
 </td>
 </tr>
 
