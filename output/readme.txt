@@ -7,7 +7,7 @@
 <br/>
 
 <!-- TYPING TITLE -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2F+Full-Stack+Developer;Django+%2B+React+Builder;Building+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -102,18 +102,17 @@
 ![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Yash's GitHub stats](https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=patkaryash&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Yash's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-![Top Langs](https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=patkaryash&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-<div align="center">
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patkaryash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -121,7 +120,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
