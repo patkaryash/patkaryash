@@ -90,7 +90,7 @@
 <tr>
 <td colspan="2" align="center">
 
-<img alt="snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/patkaryash/patkaryash/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/patkaryash/patkaryash/output/github-contribution-grid-snake-dark.svg" />
 
 </td>
 </tr>
